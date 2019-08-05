@@ -1,0 +1,7 @@
+<res>
+   <item name="root" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="root/less_green_btn.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,60,0,60" picType="0" scale="0"/>
+   <item name="root/green_btn.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,60,0,60" picType="0" scale="0"/>
+   <item name="root/yellow_btn.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,60,0,60" picType="0" scale="0"/>
+   <item name="root/red_btn.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,60,0,60" picType="0" scale="0"/>
+</res>

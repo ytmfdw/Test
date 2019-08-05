@@ -1,0 +1,7 @@
+<res>
+   <item name="root" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="root/btn_1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,20,15,20" picType="0" scale="0"/>
+   <item name="root/btn_2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,20,15,20" picType="0" scale="0"/>
+   <item name="root/btn_3.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="root/btn_4.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+</res>
