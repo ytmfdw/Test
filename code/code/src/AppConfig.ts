@@ -1,5 +1,5 @@
 const APPNAME = 'XiaoXiaoXiao';
-const VERSION = '1.0.0';
+const VERSION = '1.0.1';
 
 const APP_ID = "dURtecOkcYIc6MyqpGCJBS2P-gzGzoHsz";
 const APP_KEY = "pJvDPlOJxnTDmgPj90ic50Oy";
